@@ -1,1 +1,2 @@
-document.getElementById('content').innerText = "This is innerText content.";
+document.getElementById('content').textContent = 'Hello';
+
